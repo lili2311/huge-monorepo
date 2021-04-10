@@ -1,4 +1,4 @@
-FROM debian:9.8-slim
+FROM debian:stretch-20210329-slim
 
 # For deployment, we need
 # libc6 - dynamically linked by cockroach binary
