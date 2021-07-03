@@ -1,4 +1,4 @@
-FROM debian:9.8-slim
+FROM debian:9.13-slim
 
 # For deployment, we need
 # libc6 - dynamically linked by cockroach binary
